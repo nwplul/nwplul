@@ -1,5 +1,5 @@
 
-# Olá, sou o Lucas Eduardo. Programador full-stack!
+# Olá, BurnDev aqui! Programador Front-End!
 
 <div align="center">
   <a href="https://github.com/nwplul">
